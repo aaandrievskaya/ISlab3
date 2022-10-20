@@ -1,0 +1,267 @@
+<root>
+	<examples>
+		<object class="Буква А">
+	        <row>0 0 0 0 1 1 0 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 1 1 0 0 1 1 0 0</row>
+	        <row>0 0 1 1 0 0 1 1 0 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 1 1 1 1 1 1 1 1 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+		</object>
+
+		<object class="Буква А">
+	        <row>0 0 0 0 1 1 0 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 1 1 0 0 1 1 0 0</row>
+	        <row>0 0 1 1 0 0 1 1 0 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 1 1 1 1 1 1 1 1 0</row>
+	        <row>0 1 1 1 1 1 1 1 1 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>1 1 0 0 0 0 0 0 1 1</row>
+	        <row>1 1 0 0 0 0 0 0 1 1</row>
+		</object>
+
+		<object class="Буква А">
+	        <row>0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 1 1 0 0 1 1 0 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 1 1 1 1 1 1 1 1 0</row>
+	        <row>0 1 1 1 1 1 1 1 1 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+		</object>
+
+		<object class="Буква А">
+	        <row>0 0 0 0 1 1 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 1 0 0 0</row>
+	        <row>0 0 1 1 0 0 1 1 0 0</row>
+	        <row>0 0 1 0 0 0 0 1 0 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 1 1 1 1 1 1 1 1 0</row>
+	        <row>0 1 1 1 1 1 1 1 1 0</row>
+	        <row>1 1 0 0 0 0 0 0 1 1</row>
+	        <row>1 1 0 0 0 0 0 0 1 1</row>
+	        <row>1 1 0 0 0 0 0 0 1 1</row>
+		</object>
+		
+
+
+		<object class="Буква T">
+	        <row>1 1 1 1 1 1 1 1 1 1</row>
+	        <row>1 1 1 1 1 1 1 1 1 1</row>
+	        <row>0 0 0 0 1 1 1 0 0 0</row>
+	        <row>0 0 0 0 1 1 1 0 0 0</row>
+	        <row>0 0 0 0 1 1 1 0 0 0</row>
+	        <row>0 0 0 0 1 1 1 0 0 0</row>
+	        <row>0 0 0 0 1 1 1 0 0 0</row>
+	        <row>0 0 0 0 1 1 1 0 0 0</row>
+	        <row>0 0 0 0 1 1 1 0 0 0</row>
+	        <row>0 0 0 0 1 1 1 0 0 0</row>
+		</object>
+
+		<object class="Буква T">
+	        <row>1 1 1 1 1 1 1 1 1 1</row>
+	        <row>1 1 1 1 1 1 1 1 1 1</row>
+	        <row>0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 0 0 0 0</row>
+	        <row>0 0 0 1 1 1 0 0 0 0</row>
+	        <row>0 0 0 1 1 1 0 0 0 0</row>
+		</object>
+
+		<object class="Буква T">
+	        <row>0 0 0 0 0 0 0 0 0 0</row>
+	        <row>1 1 1 1 1 1 1 1 1 1</row>
+	        <row>0 0 0 0 1 1 1 0 0 0</row>
+	        <row>0 0 0 0 1 1 1 0 0 0</row>
+	        <row>0 0 0 0 1 1 1 0 0 0</row>
+	        <row>0 0 0 0 1 1 1 0 0 0</row>
+	        <row>0 0 0 0 1 1 1 0 0 0</row>
+	        <row>0 0 0 0 1 1 1 0 0 0</row>
+	        <row>0 0 0 0 1 1 1 0 0 0</row>
+	        <row>0 0 0 0 1 1 1 0 0 0</row>
+		</object>
+
+		<object class="Буква T">
+	        <row>1 1 1 1 1 1 1 1 1 1</row>
+	        <row>1 1 1 1 1 1 1 1 1 1</row>
+	        <row>1 1 1 1 1 1 1 1 1 1</row>
+	        <row>0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0</row>
+		</object>
+
+		<object class="Буква О">
+	        <row>0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 1 1 1 1 1 1 0 0</row>
+	        <row>0 1 1 1 0 0 1 1 1 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 1 1 1 0 0 1 1 1 0</row>
+	        <row>0 0 1 1 1 1 1 1 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0</row>
+		</object>
+
+		<object class="Буква О">
+	        <row>0 0 1 1 1 1 1 1 0 0</row>
+	        <row>0 1 1 1 0 0 1 1 1 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 1 0 0 0 0 0 0 1 0</row>
+	        <row>0 1 0 0 0 0 0 0 1 0</row>
+	        <row>0 1 0 0 0 0 0 0 1 0</row>
+	        <row>0 1 0 0 0 0 0 0 1 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 1 1 1 0 0 1 1 1 0</row>
+	        <row>0 0 1 1 1 1 1 1 0 0</row>
+		</object>
+
+		<object class="Буква О">
+	        <row>0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 1 1 0 0 1 1 0 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 1 0 0 0 0 0 0 1 0</row>
+	        <row>0 1 0 0 0 0 0 0 1 0</row>
+	        <row>0 1 0 0 0 0 0 0 1 0</row>
+	        <row>0 1 0 0 0 0 0 0 1 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 0 1 1 0 0 1 1 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0</row>
+		</object>
+
+		<object class="Буква О">
+	        <row>0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 1 1 0 0 1 1 0 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 0 1 1 0 0 1 1 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0</row>
+		</object>
+
+		<object class="Буква М">
+	        <row>1 0 0 0 0 0 0 0 0 1</row>
+		<row>1 1 0 0 0 0 0 0 1 1</row>
+	        <row>1 1 1 0 0 0 0 1 1 1</row>
+	        <row>1 1 1 1 0 0 1 1 1 1</row>
+	        <row>1 1 0 1 1 1 1 0 1 1</row>
+	        <row>1 1 0 0 1 1 0 0 1 1</row>
+	        <row>1 1 0 0 0 0 0 0 1 1</row>
+	        <row>1 1 0 0 0 0 0 0 1 1</row>
+	        <row>1 1 0 0 0 0 0 0 1 1</row>
+	        <row>1 1 0 0 0 0 0 0 1 1</row>
+		</object>
+
+		<object class="Буква М">
+	        <row>1 1 0 0 0 0 0 0 1 1</row>
+		<row>1 1 1 0 0 0 0 1 1 1</row>
+	        <row>1 1 1 1 0 0 1 1 1 1</row>
+	        <row>1 1 1 1 1 1 1 1 1 1</row>
+	        <row>1 1 0 1 1 1 1 0 1 1</row>
+	        <row>1 1 0 0 1 1 0 0 1 1</row>
+	        <row>1 1 0 0 0 0 0 0 1 1</row>
+	        <row>1 1 0 0 0 0 0 0 1 1</row>
+	        <row>1 1 0 0 0 0 0 0 1 1</row>
+	        <row>1 1 0 0 0 0 0 0 1 1</row>
+		</object>
+
+		<object class="Буква М">
+	        <row>1 0 0 0 0 0 0 0 0 1</row>
+		<row>1 1 0 0 0 0 0 0 1 1</row>
+	        <row>1 1 1 0 0 0 0 1 1 1</row>
+	        <row>1 1 0 1 0 0 1 0 1 1</row>
+	        <row>1 1 0 0 1 1 0 0 1 1</row>
+	        <row>1 1 0 0 0 0 0 0 1 1</row>
+	        <row>1 1 0 0 0 0 0 0 1 1</row>
+	        <row>1 1 0 0 0 0 0 0 1 1</row>
+	        <row>1 1 0 0 0 0 0 0 1 1</row>
+	        <row>1 1 0 0 0 0 0 0 1 1</row>
+		</object>
+
+		<object class="Буква М">
+	        <row>1 1 0 0 0 0 0 0 1 1</row>
+		<row>1 1 1 0 0 0 0 1 1 1</row>
+	        <row>1 1 1 1 0 0 1 1 1 1</row>
+	        <row>1 1 1 1 0 0 1 1 1 1</row>
+	        <row>1 1 1 1 1 1 1 1 1 1</row>
+	        <row>1 1 1 0 1 1 0 1 1 1</row>
+	        <row>1 1 1 0 1 1 0 1 1 1</row>
+	        <row>1 1 1 0 0 0 0 1 1 1</row>
+	        <row>1 1 1 0 0 0 0 1 1 1</row>
+	        <row>1 1 1 0 0 0 0 1 1 1</row>
+		</object>
+
+	</examples>
+	<tasks>
+		<object class="Буква А">
+	        <row>0 0 1 1 1 1 1 1 0 0</row>
+	        <row>0 0 1 1 1 0 1 1 0 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 1 1 1 0 0 1 1 1 0</row>
+	        <row>0 1 1 1 1 1 1 1 1 0</row>
+	        <row>0 1 1 1 1 1 1 1 1 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+	        <row>0 1 1 0 0 0 0 1 1 0</row>
+		</object>
+
+	        <object>
+	        <row>0 1 1 1 1 1 1 1 0 0</row>
+	        <row>1 1 1 1 1 1 1 1 1 1</row>
+	        <row>1 0 0 0 1 1 0 0 0 1</row>
+	        <row>0 0 0 0 1 1 0 0 0 0</row>
+	        <row>0 0 0 0 1 1 0 0 0 0</row>
+	        <row>0 0 0 0 1 1 0 0 0 0</row>
+	        <row>0 0 0 0 1 1 0 0 0 0</row>
+	        <row>0 0 0 0 1 1 0 0 0 0</row>
+	        <row>0 0 0 0 1 1 0 0 0 0</row>
+	        <row>0 0 0 0 0 0 0 0 0 0</row>
+		</object>
+
+		<object>
+	        <row>0 0 0 0 0 0 0 0 0 0</row>
+	        <row>0 0 1 1 1 1 1 1 0 0</row>
+	        <row>0 0 1 0 0 0 0 0 0 0</row>
+	        <row>0 0 1 0 0 0 0 1 0 0</row>
+	        <row>0 0 1 0 0 0 0 1 0 0</row>
+	        <row>0 0 1 0 0 0 0 1 0 0</row>
+	        <row>0 0 1 0 0 0 0 1 0 0</row>
+	        <row>0 0 1 1 1 1 1 1 0 0</row>
+	        <row>0 0 1 1 1 1 1 1 0 0</row>
+	        <row>0 0 0 0 0 0 0 0 0 0</row>
+		</object>
+
+		<object class="Буква М">
+	        <row>1 1 0 0 0 0 0 0 1 1</row>
+		<row>1 1 0 0 0 0 0 0 1 1</row>
+	        <row>1 1 1 0 0 0 0 1 1 1</row>
+	        <row>1 0 1 1 0 0 1 1 0 1</row>
+	        <row>1 0 0 1 1 1 1 0 0 1</row>
+	        <row>1 0 0 0 1 1 0 0 0 1</row>
+	        <row>1 0 0 0 0 0 0 0 0 1</row>
+	        <row>1 0 0 0 0 0 0 0 0 1</row>
+	        <row>1 0 0 0 0 0 0 0 0 1</row>
+	        <row>1 0 0 0 0 0 0 0 0 1</row>
+		</object>
+	</tasks>
+</root>
